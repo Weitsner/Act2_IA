@@ -2,7 +2,8 @@ CORPORACION UNIVERSITARIA IBEROAMERICANA
 
 INTELIGENCIA ARTIFICIAL
 
-Actividad 2 - Búsqueda y sistemas basados en reglas
+Actividad 3 - Métodos de aprendizaje supervisado
+Actividad 4 - Métodos de aprendizaje no supervisado
 
 Weitsner Alexis Carrillo Cruz
 
